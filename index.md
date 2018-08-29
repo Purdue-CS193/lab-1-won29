@@ -1,6 +1,6 @@
 # Jong Yun Won's first CS193 Lab
 
-## Why I Should Be Excited for CS193:
+## Why I Am Excited for CS193:
 - Help with unfamiliar technology like Github
 - Optimal lab and lecture times
 - Promotion for clubs/organizations that I would never have thought to join
