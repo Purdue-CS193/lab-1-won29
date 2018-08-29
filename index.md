@@ -4,7 +4,7 @@
 - Help with unfamiliar technology like Github
 - Optimal lab and lecture times
 - Promotion for clubs/organizations that I would never have thought to join
-- Great instructors ^.^ (at least so far) 
+- Excellent instructors ^.^ (at least they seem to be) 
 
 ## Welcome to GitHub Pages
 
