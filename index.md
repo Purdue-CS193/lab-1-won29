@@ -1,5 +1,11 @@
 # Jong Yun Won's first CS193 Lab
 
+## Why I Should Be Excited for CS193
+- Help with unfamiliar technology like Github
+- Optimal lab and lecture times
+- Promotion for clubs/organizations that I would never have thought to join
+- Great instructors ^.^ (at least so far) 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
